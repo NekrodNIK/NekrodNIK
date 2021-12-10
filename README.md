@@ -1,0 +1,12 @@
+- 👋 Hi, I am @NekrodNIK
+- My skills:
+  - backend development(Django, Flask, FastAPI)
+  - frontend development(VanillaJS, React, TypeScript)
+  - desktop development(Qt for Python)
+  - fullstack python development
+- I am proficient in the following programming languages:
+  - Python🐍
+  - JavaScript, TypeScript
+- I am interested:
+  - Linux
+  - New technologies
