@@ -3,6 +3,7 @@
   - backend development(Django, Flask, FastAPI)
   - frontend development(VanillaJS, React, TypeScript)
   - desktop development(Qt for Python)
+  - crossplatform development(Flutter)
   - fullstack python development
 - I am proficient in the following programming languages:
   - Python🐍
